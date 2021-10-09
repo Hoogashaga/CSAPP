@@ -1,18 +1,3 @@
-/*
- * CSE 351 Lab 1 (Data Lab - Pointers)
- *
- * <PLEASE REPLACE THIS LINE WITH YOUR NAME AND STUDENT USERNAME>
- *
- * pointer.c - Source file with your solutions to the Lab.
- *             This is the file you will hand in to your instructor.
- *
- * WARNING: Do not include the <stdio.h> header; it confuses the dlc compiler.
- * You can still use printf for debugging without including <stdio.h>. The
- * included file, "common.c" contains a function declaration that should
- * prevent a compiler warning. In general, it's not good practice to ignore
- * compiler warnings, but in this case it's OK.
- */
-
 #ifndef COMMON_H
 #include "common.h"
 #endif
